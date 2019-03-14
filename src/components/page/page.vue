@@ -11,7 +11,7 @@
                 <ui-list-item title="帮助" to="/help">
                     <ui-icon slot="left" value="grade"/>
                 </ui-list-item>
-                <ui-list-item title="关于" to="/about">
+                <ui-list-item title="关于" href="https://project.yunser.com/products/ed7006403cc011e9ae11c3584647d0bc" target="_blank">
                     <ui-icon slot="left" value="grade"/>
                 </ui-list-item>
             </ui-list>

@@ -25,6 +25,7 @@
 
             <h2>下载</h2>
             <ui-raised-button primary label="Chrome 应用商店下载" href="https://chrome.google.com/webstore/detail/ejfhencngpnpohkchdjgkphiakibkkab" target="_blank" />
+            <p>也可以点击 <a href="http://img1.yunser.net/extension/dist.crx" target="_blank">下载</a> 并自行安装。</p>
         </ui-article>
     </my-page>
 </template>
